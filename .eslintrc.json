@@ -33,10 +33,6 @@
 			"error",
 			"single"
 		],
-		"semi": [
-			"error",
-			"always"
-		],
 		"sort-imports": "off",
 		"arrow-spacing": [
 			"off",
